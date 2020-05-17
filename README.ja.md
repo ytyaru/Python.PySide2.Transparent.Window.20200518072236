@@ -6,7 +6,7 @@
 
 # デモ
 
-![demo](doc/demo.wep)
+![demo](doc/demo.webp)
 
 # 開発環境
 

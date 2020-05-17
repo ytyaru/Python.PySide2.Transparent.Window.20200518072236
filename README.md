@@ -6,7 +6,7 @@ Make a transparent window.
 
 # DEMO
 
-![demo](doc/demo.wep)
+![demo](doc/demo.webp)
 
 # Requirement
 
